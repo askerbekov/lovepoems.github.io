@@ -18,17 +18,21 @@ header img {
   width: 170px;
 }
 header button {
-  height: 40px;
+  width: auto;
+  height: 55px;
   border-radius: 50px;
   margin: auto 25px;
-  padding: 10px; /* Поля вокруг текста */
+  padding: 15px; /* Поля вокруг текста */
   background-image: linear-gradient(45deg, #c7982c, #f4d873);
   border: 0 solid #c7982c;
   font-family: "Lobster", cursive;
+  font-size: larger;
 }
 header input {
-  height: 40px;
+  width: 17%;
+  height: 55px;
   margin: auto 25px;
   border-radius: 50px;
   font-family: "Lobster", cursive;
+  font-size: larger;
 }
